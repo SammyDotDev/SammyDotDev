@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on my Self Development (I'm always working on it)<br>👯 I’m looking to collaborate on startups, hackathons, fun projects<br>🤝 I’m looking for help with working with Data Structures and Algorithms, and transitioning smootly into Machine Learning and Artificial Intelligence<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about anything (within my field of course)<br>⚡ Fun fact: I like being surrounded with people of similar mindset, goals and passion. Makes me way more productive:)
 
+```python
+  print("Hello World");
+```
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_.sa.mmy.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelokwudiashi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/okwudiashisamuel) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@sammyiy0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SammyDarTT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:okwudiashisamuel@gmail.com) 
