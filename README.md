@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on my Self Development (I'm always working on it)<br>👯 I’m looking to collaborate on startups, hackathons, fun projects<br>🤝 I’m looking for help with working with Data Structures and Algorithms, and transitioning smootly into Machine Learning and Artificial Intelligence<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about anything (within my field of course)<br>⚡ Fun fact: I like being surrounded with people of similar mindset, goals and passion. Makes me way more productive:)
 
-```python
-  print("Hello World");
+```java
+  System.out.println("Hello World");
 ```
 
 
